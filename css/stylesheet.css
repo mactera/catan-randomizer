@@ -4,6 +4,10 @@
    margin:0 auto;
    position:relative;
 }
+img {
+width:10%;
+}
+
 #content-left {
     /*position:absolute;
     top:0;
